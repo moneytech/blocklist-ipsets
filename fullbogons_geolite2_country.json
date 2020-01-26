@@ -1,0 +1,22 @@
+[
+	{
+		"code": "BR",
+		"value": 4608
+	},
+	{
+		"code": "GB",
+		"value": 3072
+	},
+	{
+		"code": "MU",
+		"value": 1
+	},
+	{
+		"code": "MX",
+		"value": 256
+	},
+	{
+		"code": "US",
+		"value": 16384
+	}
+]

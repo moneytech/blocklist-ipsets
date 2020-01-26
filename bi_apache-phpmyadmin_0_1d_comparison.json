@@ -1,0 +1,14 @@
+[
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 128,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 321204718,
+		"common": 1
+	}
+]
